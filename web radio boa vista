@@ -1,0 +1,104 @@
+{
+  "stream_url": "https://sv11.hdradios.net:7858/;",
+  "app_name": "Web Rádio Boa Vista",
+  "logo_url": "https://i.postimg.cc/5976bt15/Whats-App-Image-2026-08-19-at-10-10-31.jpg",
+  "background_url": "https://i.postimg.cc/QC9BRLFR/a89b1cf396402d1de33616ecb875074f.jpg",
+  "bg_tint_color": "#00254d",
+  "bg_tint_opacity": 0.30,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Anunciantes",
+  
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " https://wa.me/5577999949594 "
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.postimg.cc/Kj6bjwJW/hq720.jpg",
+      "click_url": " "
+    }
+  ],
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://api.whatsapp.com/send?phone=5584998005806"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/webradioboavista"
+    },
+    {
+      "icon": "website",
+      "url": "https://www.boavista.webradios.net/"
+    }
+  ]
+}
