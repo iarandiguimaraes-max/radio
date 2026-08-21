@@ -1,7 +1,7 @@
 {
   "stream_url": "https://sv11.hdradios.net:7858/;",
   "app_name": "Web Rádio Boa Vista",
-  "logo_url": "https://i.postimg.cc/ryZwwmBD/LOGOMARCA-BOA-VISTA.png",
+  "logo_url": "https://i.postimg.cc/cLTbwW6F/Chat-GPT-Image-20-de-ago-de-2026-08-00-33.png",
   "background_url": "https://i.postimg.cc/QC9BRLFR/a89b1cf396402d1de33616ecb875074f.jpg",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.80,
@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 5000,
+  "banner_interval_ms": 7000,
   "sponsor_label": "Anunciantes",
   
 
@@ -28,7 +28,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/rmY75JPQ/Chat-GPT-Image-2-de-mai-de-2026-09-02-48.png",
-      "click_url": "https://wa.me/5584999005872 "
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 2",
@@ -36,7 +36,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/pTsrMg1c/Chat-GPT-Image-20-de-ago-de-2026-06-09-21.png",
-      "click_url": " https://wa.me/5584986589119 "
+      "click_url": " https://wa.me/5577999949594 "
     },
     {
       "title": "PATROCINADOR 3",
@@ -44,7 +44,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/ncQNQNtm/Chat-GPT-Image-20-de-ago-de-2026-07-27-58.png",
-      "click_url": "https://wa.me/5584999464244 "
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 4",
@@ -52,7 +52,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/L4jb9Lkq/Chat-GPT-Image-20-de-ago-de-2026-07-31-33.png",
-      "click_url": "https://wa.me/5584999413002 "
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 5",
@@ -68,7 +68,7 @@
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
       "image_url": "https://i.postimg.cc/vHkg0gjN/Chat-GPT-Image-20-de-ago-de-2026-07-35-25.png",
-      "click_url": " "https://wa.me/5584999335702
+      "click_url": " "
     },
     {
       "title": "PATROCINADOR 7",
@@ -98,7 +98,7 @@
     },
     {
       "icon": "website",
-      "url": "https://www.webradioboavista.com.br/"
+      "url": "https://www.boavista.webradios.net/"
     }
   ]
 }
