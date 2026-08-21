@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": false,
   "enable_album_view": true,
-  "banner_interval_ms": 7000,
+  "banner_interval_ms": 5000,
   "sponsor_label": "Anunciantes",
   
 
@@ -44,7 +44,7 @@
       "bg_color": "#FDCB03",
       "text_color": "#000000",
       "image_url": "https://i.postimg.cc/ncQNQNtm/Chat-GPT-Image-20-de-ago-de-2026-07-27-58.png",
-      "click_url": " "
+      "click_url": "https://wa.me/5584999464244 "
     },
     {
       "title": "PATROCINADOR 4",
